@@ -1,0 +1,25 @@
+{
+  "name": "nodelogger",
+  "version": "1.0.0",
+  "description": "Node Log rotate POC",
+  "main": "index.js",
+  "dependencies": {
+    "logrotator": "^1.1.0",
+    "winston": "^2.3.1",
+    "winston-daily-rotate-file": "^1.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surendraasokan/nodeLogger.git"
+  },
+  "author": "Surendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surendraasokan/nodeLogger/issues"
+  },
+  "homepage": "https://github.com/surendraasokan/nodeLogger#readme"
+}
